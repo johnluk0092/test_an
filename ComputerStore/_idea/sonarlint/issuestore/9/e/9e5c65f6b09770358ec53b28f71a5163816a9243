@@ -1,0 +1,9 @@
+
+§
+java:S1450"eRemove the "orderListDetailAdapter" field and declare it as a local variable in the relevant methods.(ªöİ`8İˆµäã1J$4b504b4a-75b2-4150-b54a-a5dd2061188e
+š
+java:S1450"XRemove the "viewModel" field and declare it as a local variable in the relevant methods.(¬Ïû[8İˆµäã1J$5ab7492f-1b07-4e84-824d-74cc8fd09a3e
+t
+java:S1602(",Remove useless curly braces around statement(ôĞÀ¬ÿÿÿÿÿ8ãˆµäã1J$46506adf-5b22-4e39-83cf-8bd329d276b3
+
+java:S1874,"7Remove this use of "getSerializable"; it is deprecated.(ÔéÉ“ıÿÿÿÿ8–àí¬ä1J$100a2a44-da38-481d-89b2-cd4a585fe40b

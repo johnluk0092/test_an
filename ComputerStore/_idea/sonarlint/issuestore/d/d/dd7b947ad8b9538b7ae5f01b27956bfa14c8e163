@@ -1,0 +1,11 @@
+
+„
+java:S1450+"bRemove the "productFilterDialog" field and declare it as a local variable in the relevant methods.(©ê˜»úÿÿÿÿ8Ø¢Õ±ë1
+~
+java:S1450$"aRemove the "productListAdapter" field and declare it as a local variable in the relevant methods.(èñå³8è¢Õ±ë1
+N
+java:S1602U",Remove useless curly braces around statement(íøúâøÿÿÿÿ8ú¢Õ±ë1
+¤
+java:S1186•"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(½Ä³ïþÿÿÿÿ8‰£Õ±ë1
+O
+java:S1602ž",Remove useless curly braces around statement(¹ºž¾þÿÿÿÿ8‰£Õ±ë1

@@ -1,0 +1,7 @@
+
+‚
+java:S1118	":Add a private constructor to hide the implicit public one.(°ƒÔÕüÿÿÿÿ8šòÓ„ä1J$782bd618-13a3-4a18-8f96-8ebee4564d75
+›
+java:S2975/"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(ãª·°ÿÿÿÿÿ8òÓ„ä1J$e5c437da-4b72-4fa2-9944-60c54c1fe8e4
+
+java:S1182/"HUse super.clone() to create and seed the cloned instance to be returned.(ãª·°ÿÿÿÿÿ8ŸòÓ„ä1J$a554a026-ccd1-4a9d-ac55-8399e77d0b81
