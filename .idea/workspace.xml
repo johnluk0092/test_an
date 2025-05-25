@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cd76d9e9-4b87-43ea-bcbc-fc385c7b9f80" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/ic_launcher_logo-playstore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/ic_logo_bird-playstore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/ic_logo_default-playstore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/ic_logo_login-playstore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/repository/remote/BaseRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/service/BaseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/drawable/background_bitmap.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/drawable/background_gradient.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/drawable/bg_main_background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/drawable/bg_primary_background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/drawable/bg_secondary_background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/drawable/ic_launcher_logo_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/drawable/ic_logo_default_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/drawable/ic_logo_default_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/drawable/primary_background_bitmap.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/drawable/rounded_button.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/drawable/secondary_background_bitmap.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/mipmap-anydpi-v26/ic_launcher_logo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/mipmap-anydpi-v26/ic_launcher_logo_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/mipmap-anydpi-v26/ic_logo_bird.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/mipmap-anydpi-v26/ic_logo_bird_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/mipmap-anydpi-v26/ic_logo_default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/mipmap-anydpi-v26/ic_logo_default_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/mipmap-hdpi/ic_launcher_logo.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/mipmap-hdpi/ic_launcher_logo_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/mipmap-hdpi/ic_launcher_logo_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/mipmap-hdpi/ic_logo_bird.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/mipmap-hdpi/ic_logo_bird_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/mipmap-hdpi/ic_logo_bird_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/mipmap-hdpi/ic_logo_default.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/mipmap-hdpi/ic_logo_default_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/mipmap-hdpi/ic_logo_login_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/mipmap-mdpi/ic_launcher_logo.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/mipmap-mdpi/ic_launcher_logo_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/mipmap-mdpi/ic_launcher_logo_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/mipmap-mdpi/ic_logo_bird.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/mipmap-mdpi/ic_logo_bird_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/mipmap-mdpi/ic_logo_bird_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/mipmap-mdpi/ic_logo_default.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/mipmap-mdpi/ic_logo_default_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/mipmap-mdpi/ic_logo_login_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/mipmap-xhdpi/ic_launcher_logo.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/mipmap-xhdpi/ic_launcher_logo_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/mipmap-xhdpi/ic_launcher_logo_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/mipmap-xhdpi/ic_logo_bird.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/mipmap-xhdpi/ic_logo_bird_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/mipmap-xhdpi/ic_logo_bird_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/mipmap-xhdpi/ic_logo_default.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/mipmap-xhdpi/ic_logo_default_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/mipmap-xhdpi/ic_logo_login_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/mipmap-xxhdpi/ic_launcher_logo.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/mipmap-xxhdpi/ic_launcher_logo_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/mipmap-xxhdpi/ic_launcher_logo_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/mipmap-xxhdpi/ic_logo_bird.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/mipmap-xxhdpi/ic_logo_bird_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/mipmap-xxhdpi/ic_logo_bird_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/mipmap-xxhdpi/ic_logo_default.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/mipmap-xxhdpi/ic_logo_default_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/mipmap-xxhdpi/ic_logo_login_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/mipmap-xxxhdpi/ic_launcher_logo.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/mipmap-xxxhdpi/ic_launcher_logo_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/mipmap-xxxhdpi/ic_launcher_logo_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/mipmap-xxxhdpi/ic_logo_bird.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/mipmap-xxxhdpi/ic_logo_bird_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/mipmap-xxxhdpi/ic_logo_bird_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/mipmap-xxxhdpi/ic_logo_default.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/mipmap-xxxhdpi/ic_logo_default_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/mipmap-xxxhdpi/ic_logo_login_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/values/ic_logo_bird_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/values/style.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/google-services.json" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/google-services.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/androidTest/java/vn/edu/hutech/shopzilla/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/androidTest/java/vn/edu/hutech/computerstore/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/ShopZillaApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/ComputerStoreApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/common/ShopZillaConstant.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/common/ComputerStoreConstant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/model/cart/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/model/cart/Cart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/model/cart/CartUnit.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/model/cart/CartUnit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/model/order/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/model/order/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/model/order/OrderDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/model/order/OrderDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/model/order/OrderStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/model/order/OrderStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/model/order/OrderUnit.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/model/order/OrderUnit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/model/product/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/model/product/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/model/product/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/model/product/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/model/user/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/model/user/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/model/user/UserSetting.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/model/user/UserSetting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/repository/local/DatabaseModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/repository/local/DatabaseModule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/repository/local/ShopZillaDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/repository/local/ComputerStoreDatabase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/repository/local/UserSettingRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/repository/local/UserSettingRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/repository/parameter/ProductQuery.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/repository/parameter/ProductQuery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/repository/remote/BaseRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/repository/remote/CartRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/repository/remote/CartRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/repository/remote/CategoryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/repository/remote/CategoryRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/repository/remote/OrderRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/repository/remote/OrderRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/repository/remote/ProductRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/repository/remote/ProductRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/repository/remote/UserAuthRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/repository/remote/UserAuthRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/service/BaseService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/service/CartService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/service/CartService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/service/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/service/OrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/service/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/service/ProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/ui/auth/AuthActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/ui/auth/AuthActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/ui/auth/login/LoginFormState.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/ui/auth/login/LoginFormState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/ui/auth/login/LoginFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/ui/auth/login/LoginFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/ui/auth/login/LoginResultState.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/ui/auth/login/LoginResultState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/ui/auth/login/LoginViewModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/ui/auth/login/LoginViewModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/ui/auth/register/RegisterFieldWatcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/ui/auth/register/RegisterFieldWatcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/ui/auth/register/RegisterFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/ui/auth/register/RegisterFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/ui/auth/register/RegisterState.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/ui/auth/register/RegisterState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/ui/auth/register/RegisterViewModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/ui/auth/register/RegisterViewModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/ui/base/ActionResultState.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/ui/base/ActionResultState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/ui/base/BaseFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/ui/base/BaseFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/ui/base/BaseViewModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/ui/base/BaseViewModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/ui/base/LoginAccountManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/ui/base/LoginAccountManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/ui/base/SingleLiveEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/ui/base/SingleLiveEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/ui/home/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/ui/home/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/ui/home/MainActivityViewModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/ui/home/MainActivityViewModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/ui/home/cart/CartListAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/ui/home/cart/CartListAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/ui/home/cart/CartListFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/ui/home/cart/CartListFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/ui/home/cart/CartListItemViewHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/ui/home/cart/CartListItemViewHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/ui/home/cart/CartListViewModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/ui/home/cart/CartListViewModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/ui/home/order/detail/OrderListDetailAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/ui/home/order/detail/OrderListDetailAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/ui/home/order/detail/OrderListDetailFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/ui/home/order/detail/OrderListDetailFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/ui/home/order/detail/OrderListDetailItemViewHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/ui/home/order/detail/OrderListDetailItemViewHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/ui/home/order/detail/OrderListDetailViewModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/ui/home/order/detail/OrderListDetailViewModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/ui/home/order/list/OrderListAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/ui/home/order/list/OrderListAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/ui/home/order/list/OrderListFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/ui/home/order/list/OrderListFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/ui/home/order/list/OrderListViewItemHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/ui/home/order/list/OrderListViewItemHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/ui/home/order/list/OrderListViewModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/ui/home/order/list/OrderListViewModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/ui/home/product/detail/ProductDetailFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/ui/home/product/detail/ProductDetailFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/ui/home/product/detail/ProductDetailViewModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/ui/home/product/detail/ProductDetailViewModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/ui/home/product/list/ProductFilterDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/ui/home/product/list/ProductFilterDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/ui/home/product/list/ProductFilterViewModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/ui/home/product/list/ProductFilterViewModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/ui/home/product/list/ProductListAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/ui/home/product/list/ProductListAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/ui/home/product/list/ProductListFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/ui/home/product/list/ProductListFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/ui/home/product/list/ProductListViewHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/ui/home/product/list/ProductListViewHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/ui/home/product/list/ProductListViewModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/ui/home/product/list/ProductListViewModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/ui/home/profile/ProfileFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/ui/home/profile/ProfileFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/ui/home/profile/ProfileViewModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/ui/home/profile/ProfileViewModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/ui/home/profile/account/AccountFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/ui/home/profile/account/AccountFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/ui/home/profile/account/AccountViewModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/ui/home/profile/account/AccountViewModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/ui/home/profile/serviceterm/TermServiceFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/ui/home/profile/serviceterm/TermServiceFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/utils/DrawableUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/utils/DrawableUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/shopzilla/utils/ShopZillaNumberUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/java/vn/edu/hutech/computerstore/utils/ProductNumberUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/res/layout/activity_auth.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/layout/activity_auth.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/res/layout/fragment_cart_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/layout/fragment_cart_list.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/res/layout/fragment_login.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/layout/fragment_login.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/res/layout/fragment_order_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/layout/fragment_order_list.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/res/layout/fragment_order_list_detail.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/layout/fragment_order_list_detail.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/res/layout/fragment_product_detail.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/layout/fragment_product_detail.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/res/layout/fragment_product_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/layout/fragment_product_list.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/res/layout/fragment_profile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/layout/fragment_profile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/res/layout/fragment_register.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/layout/fragment_register.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/res/layout/fragment_term_service.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/layout/fragment_term_service.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/res/layout/layout_order_list_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/layout/layout_order_list_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/res/layout/layout_product_list_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/layout/layout_product_list_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/res/layout/layout_ship_address.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/layout/layout_ship_address.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/res/navigation/nav_graph_auth.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/navigation/nav_graph_auth.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/res/navigation/nav_graph_home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/navigation/nav_graph_home.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/res/values-night/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/app/src/test/java/vn/edu/hutech/shopzilla/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/app/src/test/java/vn/edu/hutech/computerstore/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerStore/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerStore/settings.gradle.kts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ComputerStore" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2wOfHwEOrTtdWLK5EVtHyDIPJ9n" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/JOHN/Downloads/BuiDucKhue_2210060023_Nhom8_CuoiKy"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd76d9e9-4b87-43ea-bcbc-fc385c7b9f80" name="Changes" comment="" />
+      <created>1745917456371</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745917456371</updated>
+    </task>
+    <servers />
+  </component>
+</project>
