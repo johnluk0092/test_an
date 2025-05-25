@@ -1,0 +1,110 @@
+<resources>
+    <string name="app_name">Computer Store</string>
+
+    <string name="all_welcome">"Welcome!"</string>
+    <string name="all_user_name">Họ và Tên</string>
+    <string name="all_phone">Số điện thoại</string>
+    <string name="all_birthday">Ngày sinh</string>
+    <string name="all_email">Email</string>
+    <string name="all_user_password">Mật khẩu</string>
+    <string name="all_sign_in">Đăng nhập</string>
+    <string name="all_register">Đăng ký</string>
+    <string name="all_yes">Có</string>
+    <string name="all_no">Không</string>
+    <string name="all_cancel">Hủy bỏ</string>
+    <string name="all_failed_add_to_cart">Thêm sản phẩm vào giỏ hàng bị lỗi!</string>
+
+    <!-- App bar title-->
+    <string name="app_bar_title_product_list">Danh mục sản phẩm</string>
+    <string name="app_bar_title_product_detail">Chi tiết sản phẩm</string>
+    <string name="app_bar_title_cart_list">Giỏ hàng</string>
+    <string name="app_bar_title_order_list">Đơn mua</string>
+    <string name="app_bar_title_order_detail">Chi tiết đơn mua</string>
+    <string name="app_bar_title_profile">Tài khoản</string>
+    <string name="app_bar_title_profile_account">Thông tin tài khoản</string>
+    <string name="app_bar_title_profile_term_service">Chính sách dịch vụ</string>
+
+    <!-- Login -->
+    <string name="login_remember_me">Nhớ tài khoản đăng nhập</string>
+    <string name="login_register">Đăng ký</string>
+    <string name="login_invalid_email">Email sai định dạng</string>
+    <string name="login_invalid_password">Password phải lớn hơn 5 ký tự</string>
+    <string name="login_failed">Đăng nhập thất bại!</string>
+
+    <!-- Register -->
+    <string name="register_title">Đăng Ký</string>
+    <string name="register_input_password_again">Nhập lại mật khẩu</string>
+    <string name="register_invalid_name">Họ tên phải trên 2 ký tự!</string>
+    <string name="register_invalid_phone">Số điện thoại phải trên 10 chữ số và nhỏ hơn 13 chữ số!</string>
+    <string name="register_invalid_birthday">Ngày sinh bắt buộc phải nhập!</string>
+    <string name="register_invalid_email">Email không hợp lệ!</string>
+    <string name="register_invalid_password">Mật khẩu phải trên 5 ký tự và phải trùng nhau!</string>
+    <string name="register_birthday_picker_title">Ngày sinh</string>
+    <string name="register_failed">Đăng ký thất bại!</string>
+    <string name="register_failed_email_existed">Email này đã tồn tại!</string>
+    <string name="register_link_login">Bạn đã có tài khoản? Hãy <u><font fgcolor='#0000FF'>đăng nhập</font></u></string>
+
+    <!-- Home bottom navigation -->
+    <string name="home_bottom_navigation_home">Sản Phẩm</string>
+    <string name="home_bottom_navigation_cart">Giỏ Hàng</string>
+    <string name="home_bottom_navigation_order">Đơn Hàng</string>
+    <string name="home_bottom_navigation_profile">Tài Khoản</string>
+
+    <!-- Product list fragment -->
+    <string name="home_search">Bạn cần tìm gì?</string>
+    <string name="home_product_list_category_all_name">Tất cả</string>
+    <string name="home_search_et_ime">Tìm</string>
+    <string name="home_search_filter_by_brand">Hãng</string>
+    <string name="home_search_filter_by_price_from">Giá từ</string>
+    <string name="home_search_filter_by_price_to">Giá đến</string>
+    <string name="home_search_filter_sort_title">Sắp xếp</string>
+    <string name="home_search_filter_sort_by_name">Tên sản phẩm</string>
+    <string name="home_search_filter_sort_by_price">Giá</string>
+    <string name="home_search_filter_sort_direction_title">Thứ tự</string>
+    <string name="home_search_filter_sort_direction_asc">Tăng dần</string>
+    <string name="home_search_filter_sort_direction_desc">Giảm dần</string>
+    <string name="home_search_filter_apply">Áp dụng</string>
+
+    <!-- Product detail fragment-->
+    <string name="product_detail_brand">Hãng:</string>
+    <string name="product_detail_warranty">Bảo hành:</string>
+    <string name="product_detail_description">Thông tin chi tiết:</string>
+    <string name="product_detail_add_to_cart">Thêm vào giỏ hàng</string>
+    <string name="product_detail_add_to_cart_success">Thêm thành công</string>
+    <string name="product_detail_add_to_cart_failure">Thêm thất bại</string>
+
+    <!-- Cart list fragment-->
+    <string name="cart_list_item">Sản phẩm</string>
+    <string name="cart_list_shopping">Vận chuyển</string>
+    <string name="cart_list_total_price">Tổng giá tiền: </string>
+    <string name="cart_list_checkout">Đặt Hàng</string>
+    <string name="cart_list_alert_address_title">Địa chỉ nhận hàng</string>
+    <string name="cart_list_alert_address_message">Hãy nhập địa chỉ nhận hàng, nếu bạn muốn nhận hàng tại cửa hàng hãy để trống và bấm đặt hàng.</string>
+    <string name="cart_list_alert_msg_remove_item">Bạn có muốn xóa sản phẩm này?</string>
+    <string name="cart_list_msg_checkout_success">Đặt hàng thành công</string>
+    <string name="cart_list_msg_checkout_fail">Đặt hàng thất bại!</string>
+
+    <!-- Order list fragment-->
+    <string name="order_list_order_date">Ngày đặt hàng</string>
+    <string name="order_list_order_status">Trạng thái</string>
+    <string name="order_list_order_status_custom_confirm">Khách hàng xác nhận</string>
+    <string name="order_list_order_status_seller_confirm">Cửa hàng xác nhận</string>
+    <string name="order_list_order_status_delivering">Đang vận chuyển</string>
+    <string name="order_list_order_status_done">Giao hàng thành công</string>
+    <string name="order_list_order_total_items">Số lượng sản phẩm</string>
+    <string name="order_list_order_total_price">Tổng giá tiền</string>
+
+    <!-- Order list detail fragment-->
+    <string name="order_list_detail_price">Giá: </string>
+    <string name="order_list_detail_quantity">Số lượng: </string>
+
+    <!-- Profile fragment-->
+    <string name="profile_account">Thông tin tài khoản</string>
+    <string name="profile_term_of_service">Chính sách dịch vụ</string>
+    <string name="profile_sign_out">Đăng xuất</string>
+    <string name="profile_sign_out_title">Đăng xuất</string>
+    <string name="profile_sign_out_content">Bạn có muốn đăng xuất?</string>
+
+
+
+</resources>

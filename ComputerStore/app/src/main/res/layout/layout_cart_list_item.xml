@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardBackgroundColor="@color/white"
+    app:cardUseCompatPadding="true"
+    app:cardCornerRadius="5dp"
+    app:contentPadding="8dp">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:strokeColor="#CCCCCC"
+        app:strokeWidth="1dp"
+        android:clickable="false"
+        android:focusable="true">
+
+        <ImageView
+            android:id="@+id/cart_list_item_iv_image"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:scaleType="centerCrop"
+            android:background="@drawable/round_outline_rect"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <TextView
+            android:id="@+id/cart_list_item_tv_product_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="8dp"
+            android:lines="2"
+            android:text="product sample long long long long long long long long long long long lon glong long asdfkajsldkfjalsk dfaksj dlfkajsldkfjalskdjflaksjd fas d asdkfjalskdjf  "
+            android:textStyle="bold"
+            app:layout_constraintStart_toEndOf="@id/cart_list_item_iv_image"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/cart_list_item_tv_product_price"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginBottom="8dp"
+            android:textColor="@color/dark_purple"
+            android:textStyle="bold"
+            app:layout_constraintStart_toEndOf="@id/cart_list_item_iv_image"
+            app:layout_constraintTop_toBottomOf="@id/cart_list_item_tv_product_name"
+            android:text="123,4123 VND"/>
+
+        <ImageButton
+            android:id="@+id/cart_list_item_ib_remove"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginLeft="15dp"
+            android:background="@drawable/round_button"
+            android:scaleType="fitXY"
+            app:layout_constraintStart_toEndOf="@id/cart_list_item_iv_image"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:srcCompat="@drawable/ic_delete_24"
+            app:tint="@color/gray" />
+
+        <LinearLayout
+            android:id="@+id/cart_list_item_ll_quantity"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="8dp"
+            android:background="@drawable/layout_background_rounded_corners"
+            app:layout_constraintTop_toBottomOf="@id/cart_list_item_ib_remove"
+            app:layout_constraintBottom_toBottomOf="parent"
+            android:orientation="horizontal"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintVertical_bias="1.0">
+
+            <ImageButton
+                android:id="@+id/cart_list_item_btn_minus"
+                android:layout_width="36dp"
+                android:layout_height="30dp"
+                android:layout_weight="1"
+                android:background="@null"
+                app:srcCompat="@drawable/ic_remove_24" />
+
+            <TextView
+                android:id="@+id/cart_list_item_tv_quantity"
+                android:layout_width="40dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@color/blue_shadow_color"
+                android:gravity="center_horizontal|center_vertical"
+                android:textSize="14sp"
+                android:textStyle="bold"
+                android:text="1"/>
+
+            <ImageButton
+                android:id="@+id/cart_list_item_btn_add"
+                android:layout_width="36dp"
+                android:layout_height="30dp"
+                android:layout_weight="1"
+                android:background="@null"
+                app:srcCompat="@drawable/ic_add_24" />
+
+        </LinearLayout>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</com.google.android.material.card.MaterialCardView>

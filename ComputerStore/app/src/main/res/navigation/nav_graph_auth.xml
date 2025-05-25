@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph_auth"
+    app:startDestination="@id/nav_auth_login">
+
+    <fragment
+        android:id="@+id/nav_auth_login"
+        android:name="vn.edu.hutech.computerstore.ui.auth.login.LoginFragment"
+        tools:layout="@layout/fragment_login" >
+        <action
+            android:id="@+id/action_nav_fragment_auth_login_to_nav_fragment_auth_register"
+            app:popEnterAnim="@android:anim/slide_in_left"
+            app:popExitAnim="@android:anim/slide_out_right"
+            app:destination="@id/nav_auth_register" />
+        <action
+            android:id="@+id/action_nav_fragment_auth_login_to_home_nav_graph"
+            app:destination="@id/home_nav_graph" />
+    </fragment>
+
+    <fragment android:id="@+id/nav_auth_register"
+        android:name="vn.edu.hutech.computerstore.ui.auth.register.RegisterFragment"
+        tools:layout="@layout/fragment_register">
+        <action
+            android:id="@+id/action_nav_auth_register_to_nav_auth_login"
+            app:destination="@id/nav_auth_login" />
+    </fragment>
+
+
+</navigation>
