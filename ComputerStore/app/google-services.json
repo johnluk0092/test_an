@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "727031182322",
+    "project_id": "computerstore-a5cb9",
+    "storage_bucket": "computerstore-a5cb9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727031182322:android:859e4d80d85689f6ff716b",
+        "android_client_info": {
+          "package_name": "vn.edu.hutech.computerstore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCajSebhJwqucEL6SC-jUH-13PJQBxNVi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

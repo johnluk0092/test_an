@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:background="@drawable/primary_background_bitmap"
+    tools:context=".ui.home.profile.ProfileFragment">
+
+    <TextView
+        android:id="@+id/profile_tv_account"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:drawablePadding="10dp"
+        android:text="@string/profile_account"
+        app:drawableLeftCompat="@drawable/ic_filled_person_24" />
+
+    <TextView
+        android:id="@+id/profile_tv_term_of_service"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:drawablePadding="10dp"
+        android:text="@string/profile_term_of_service"
+        app:drawableLeftCompat="@drawable/ic_service_term" />
+
+    <TextView
+        android:id="@+id/profile_tv_sign_out"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:drawablePadding="10dp"
+        android:text="@string/profile_sign_out"
+        app:drawableLeftCompat="@drawable/ic_filled_logout_24" />
+
+</LinearLayout>
