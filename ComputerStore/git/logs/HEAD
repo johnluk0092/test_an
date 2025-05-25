@@ -1,0 +1,14 @@
+0000000000000000000000000000000000000000 0307c83b8f4b045d8eb2ce9f1cae1a0c1c2e7564 AceNguyenn <141240875+AceNguyenn@users.noreply.github.com> 1710073057 +0700	clone: from github.com:namsnguyen/shop-zilla.git
+0307c83b8f4b045d8eb2ce9f1cae1a0c1c2e7564 c0b552b0a1a6c68d884c62ef4e72335f7db64564 AceNguyenn <141240875+AceNguyenn@users.noreply.github.com> 1710073197 +0700	commit: feat: init commit
+c0b552b0a1a6c68d884c62ef4e72335f7db64564 9aa393cc2e549af350ffddc85e4845a3bcdbf5d0 AceNguyenn <141240875+AceNguyenn@users.noreply.github.com> 1710092987 +0700	commit: feat(auth): implemented login, register flow
+9aa393cc2e549af350ffddc85e4845a3bcdbf5d0 53bac853160cf14412ef04bb57a3b6c1b4b1a325 AceNguyenn <141240875+AceNguyenn@users.noreply.github.com> 1710177107 +0700	commit: feat(product-detail): implement product detail page
+53bac853160cf14412ef04bb57a3b6c1b4b1a325 445c4ab17112d3ef5e94029b28e554f656ef58e1 AceNguyenn <141240875+AceNguyenn@users.noreply.github.com> 1710266575 +0700	commit: feat(cart-order): implement cart & order feature
+445c4ab17112d3ef5e94029b28e554f656ef58e1 6abebebf2034df2815cbf2ca2f07830e5c93f0c9 AceNguyenn <141240875+AceNguyenn@users.noreply.github.com> 1710439211 +0700	commit: feat(cart-order-search): implement cart, order, search features
+6abebebf2034df2815cbf2ca2f07830e5c93f0c9 12d4cf58589daea2adcb5bf8dcf7dc204773729a AceNguyenn <141240875+AceNguyenn@users.noreply.github.com> 1710564579 +0700	commit: feat(UI): add icons
+12d4cf58589daea2adcb5bf8dcf7dc204773729a 7b027cd038dbacd9dbcab3234d9d1771ad458f74 AceNguyenn <141240875+AceNguyenn@users.noreply.github.com> 1710568882 +0700	commit: refactor: structure project
+7b027cd038dbacd9dbcab3234d9d1771ad458f74 c5a3dd5124fc501119a5666ffdf13c14f886dde1 AceNguyenn <141240875+AceNguyenn@users.noreply.github.com> 1710578440 +0700	commit: feat: make up
+c5a3dd5124fc501119a5666ffdf13c14f886dde1 19dbc50d2fee8775ea968f23b2286e4d00d7031f AceNguyenn <141240875+AceNguyenn@users.noreply.github.com> 1710604600 +0700	commit: feat(search): apply filter when searching
+19dbc50d2fee8775ea968f23b2286e4d00d7031f 9065dfa1457697bd60ad456551c65029c50ebd3c AceNguyenn <141240875+AceNguyenn@users.noreply.github.com> 1710614680 +0700	commit: fix: remove unuse code
+9065dfa1457697bd60ad456551c65029c50ebd3c fba2084b8c672f27bd3878d6400dab9778354f30 AceNguyenn <141240875+AceNguyenn@users.noreply.github.com> 1710648216 +0700	commit: refactor: add document ID for entities
+fba2084b8c672f27bd3878d6400dab9778354f30 0aca4427d9c00561e7b2bcf349f2470129576a10 AceNguyenn <141240875+AceNguyenn@users.noreply.github.com> 1710661762 +0700	commit: fix: don't close login fragment
+0aca4427d9c00561e7b2bcf349f2470129576a10 a99d760a327914b8901e6ad846511717020079bb AceNguyenn <141240875+AceNguyenn@users.noreply.github.com> 1710667804 +0700	commit: chore: add readme

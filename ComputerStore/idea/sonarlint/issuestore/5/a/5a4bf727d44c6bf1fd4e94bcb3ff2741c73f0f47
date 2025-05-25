@@ -1,0 +1,9 @@
+
+ 
+java:S1450"XRemove the "viewModel" field and declare it as a local variable in the relevant methods.(Å‚”Ãùÿÿÿÿ8Ð­ÂŽä1J$70018752-1d16-4733-b91e-137cbeb44da6
+o
+java:S1602:",Remove useless curly braces around statement(†÷ì°8Ö­ÂŽä1J$a38b2660-984b-44ff-b33d-07111480dec7
+t
+java:S1602A",Remove useless curly braces around statement(£–ƒüýÿÿÿÿ8×­ÂŽä1J$e7a57efe-10c6-4f19-9951-94e8098f6371
+s
+java:S1874H"+Remove this use of "get"; it is deprecated.(›ö£¬ûÿÿÿÿ8×­ÂŽä1J$3c5f9605-0aea-4dc5-a57b-1be7dafbfa5e
